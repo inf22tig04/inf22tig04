@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animais_selvagens>
+   <animal>
+      <nome>Leão</nome>
+      <especie>Panthera leo</especie>
+      <habitat>Savana</habitat>
+      <dieta>Carnívoro</dieta>
+   </animal>
+   <animal>
+      <nome>Tigre</nome>
+      <especie>Panthera tigris</especie>
+      <habitat>Floresta</habitat>
+      <dieta>Carnívoro</dieta>
+   </animal>
+   <animal>
+      <nome>Elefante</nome>
+      <especie>Loxodonta africana</especie>
+      <habitat>Savana e Floresta</habitat>
+      <dieta>Hervívoro</dieta>
+   </animal>
+   <animal>
+      <nome>Gorila</nome>
+      <especie>Gorilla beringei</especie>
+      <habitat>Floresta</habitat>
+      <dieta>Hervívoro</dieta>
+   </animal>
+</animais_selvagens>
