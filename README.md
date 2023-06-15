@@ -53,7 +53,7 @@ Para validação tanto doS documentos HTML quanto do documento CSS fizemos atrav
 
 ![Validação HTML Aves](Imagens/avesV.png)
 
-![Validação HTML Aves](Imagens/indexV.png)
+![Validação HTML Aves](Imagens/indexV1.png)
 
 ![Validação HTML Aves](Imagens/mamíferosV.png)
 
